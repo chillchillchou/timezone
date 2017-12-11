@@ -1,0 +1,85 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-size: 9px;
+
+
+}
+
+p{
+  color:white;
+  font-size: 8px;
+}
+img{
+width:100px;
+height: 60px;
+
+}
+
+.container {
+  transform-origin: 50% 0%;
+  color:white;
+}
+
+#defaultCanvas0 {
+  position: absolute;
+  z-index: -100;
+  /*top: -276px;
+  left: 10%;*/
+
+}
+
+
+#sliders{
+width:300px;
+height:200px;
+}
+
+#image-container {
+  /*width: 50px;
+  height: 50px;*/
+  position: absolute;
+  /*animation: rotation 4s linear 0s infinite;*/
+}
+
+#image-container. p{
+  color:white;
+}
+
+#label-container . p{
+  color:white;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+#main-container {
+  width: 100%;
+  height: 100%;
+  position:relative;
+}
+
+.cities{
+  width: 50px;
+      height: 50px;
+      position: absolute;
+      top: 0;
+      margin-top: 0;
+      font-size: 40px;
+      -webkit-font-smoothing: subpixel-antialiased;
+      transform: scale(0.5);
+      -webkit-text-stroke: 2px black;
+      color: white;
+  }
+
+.city-container {
+  position: relative;
+}

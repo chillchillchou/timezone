@@ -1,0 +1,260 @@
+{
+  "timezones": [
+    [{
+      "name": "London",
+      "path": "./cities/london/london",
+      "format": ".png"
+
+    }],
+
+    [{
+        "name": "Copenhagen",
+        "path": "./cities/copenhagen/copenhagen",
+        "format":".jpg"
+      },
+      {
+        "name": "Munich",
+        "path": "/cities/munich/munich",
+        "format":".jpg"
+      },
+      {
+        "name": "Hungary",
+        "path": "/cities/budapest/budapest",
+        "format":".jpg"
+      }
+    ],
+
+    [{
+        "name": "Jerusalem",
+        "path": "/cities/jerusalem/jerusalem",
+        "format":".jpg",
+        "timezone": 2
+      },
+      {
+        "name": "Kampala",
+        "path": "/cities/kampala/kampala",
+        "format":".png",
+        "timezone": 2
+      },
+      {
+        "name": "Tel Aviv",
+        "path": "/cities/tel-aviv/tel-aviv",
+        "format":".jpg",
+        "timezone": 2
+      }
+    ],
+
+    [{
+      "name": "Moscow",
+      "path": "/cities/moscow/moscow",
+      "format":".jpg",
+      "timezone": 3
+    }],
+    [{
+      "name": "Abu dhabi",
+      "path": "/cities/abu-dhabi/abu-dhabi",
+      "format":".jpg",
+      "timezone": 4
+    }],
+    [
+      {
+        "name": "Bangalore",
+        "path": "/cities/bangalore/bangalore",
+        "format":".png",
+        "timezone": 5
+      }
+
+
+    ],
+    [],
+    [{
+        "name": "Chongqing",
+        "path": "/cities/singapore/singapore",
+        "format":".jpg",
+        "timezone": 7
+      },
+      {
+        "name": "Jakarta",
+        "path": "/cities/jakarta/jakarta",
+        "format":".png",
+        "timezone": 7
+      },
+
+      {
+        "name": "Xi'an",
+        "path": "/cities/xi-an/xi-an",
+        "format":".jpg",
+        "timezone": 7
+      }
+    ],
+    [
+      {
+        "name": "Qingdao",
+        "path": "/cities/qingdao/qingdao",
+        "format":".jpg",
+        "timezone": 8
+      },
+      {
+        "name": "Seoul",
+        "path": "/cities/seoul/seoul",
+        "format":".png",
+        "timezone": 8
+      },
+      {
+        "name": "Hongkong",
+        "path": "/cities/hong-kong/hongkong",
+        "format":".jpg",
+        "timezone": 8
+      },
+      {
+        "name": "Taipei",
+        "path": "/cities/taipei/taipei",
+        "format":".png",
+        "timezone": 8
+      },
+      {
+        "name": "Singapore",
+        "path": "/cities/singapore/singapore",
+        "format":".jpg",
+        "timezone": 8
+      }
+    ],
+    [
+      {
+        "name": "Tokyo",
+        "path": "/cities/tokyo/tokyo",
+        "format":".jpg",
+        "timezone": 9
+      }],
+    [{
+      "name": "Sydney",
+      "path": "/cities/sydney/sydney",
+      "format":".jpg",
+      "timezone": 10
+    }],
+    [],
+    [{
+      "name": "Aukland",
+      "path": "/cities/aukland/aukland",
+      "format":".jpg",
+      "timezone": 12
+    }],
+    [{
+      "name": "Alaska",
+      "path": "/cities/alaska/alaska",
+      "format":".jpg",
+      "timezone": 13
+    }
+    ],
+    [{
+      "name": "Honolulu",
+      "path": "/cities/honolulu/honolulu",
+      "format":".jpg",
+      "timezone": 14
+    }],
+    [],
+    [{
+        "name": "Los Angeles",
+        "path": "/cities/newport/newport",
+        "format":".png",
+        "timezone": 15
+      },
+      {
+        "name": "San Francisco",
+        "path": "/cities/sf/sf",
+        "format":".png",
+        "timezone": 16
+      }
+    ],
+    [{
+        "name": "Mexico City",
+        "path": "/cities/mexico-city/mexicocity",
+        "format":".jpg",
+        "timezone": 17
+      },
+      {
+        "name": "Queretara",
+        "path": "/cities/queretaro/queretaro",
+        "format":".jpg",
+        "timezone": 17
+      },
+      {
+        "name": "Austin",
+        "path": "/cities/austin/austin",
+        "format":".png",
+        "timezone": 17
+      }
+    ],
+    [{
+        "name": "Chicago",
+        "path": "/cities/chicago/chicago",
+        "format":".jpg",
+        "timezone": 18
+      },
+      {
+        "name": "Cincinnati",
+        "path": "/cities/Cincinnati/Cincinnati",
+        "format":".jpg",
+        "timezone": 18
+      }
+    ],
+    [
+      {
+        "name": "New York",
+        "path": "/cities/newyork/newyork",
+        "format":".png",
+        "timezone": 19
+      },
+      {
+        "name": "Bogota",
+        "path": "/cities/bogota/bogota",
+        "format":".jpg",
+        "timezone": 19
+      },
+      {
+        "name": "Boston",
+        "path": "/cities/boston/boston",
+        "format":".png",
+        "timezone": 19
+      },
+      {
+        "name": "Cleveland",
+        "path": "/cities/Cleveland/Cleveland",
+        "format":".jpg",
+        "timezone": 19
+      },
+      {
+        "name": "Philadelphia",
+        "path": "/cities/Philadelphia/Philadelphia",
+        "format":".jpg",
+        "timezone": 19
+      },
+      {
+        "name": "Toronto",
+        "path": "/cities/toronto/toronto",
+        "format":".jpg",
+        "timezone": 19
+      },
+      {
+        "name": "Ottawa",
+        "path": "/cities/ottawa/ottawa",
+        "format":".jpg",
+        "timezone": 19
+      }
+    ],
+    [{
+      "name": "Ann Arbor",
+      "path": "/cities/ann-arbor/annarbor",
+      "format":".png",
+      "timezone": 20
+    }],
+    [],
+    [],
+    [{
+      "name": "Akureyri",
+      "path": "/cities/akureyri/akureyri",
+      "format":".jpg",
+      "timezone": 23
+    }]
+  ]
+}
